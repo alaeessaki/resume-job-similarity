@@ -3,6 +3,11 @@
 Match Your Resume To A Job Description
 
 ## Prerequisite
-`Python3`\n
+```
+Python3
+```
 run command :
-`pip install docx2txt`
+
+```
+pip install docx2txt
+```
